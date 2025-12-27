@@ -1,0 +1,25 @@
+# HTML files (local testing data)
+Foot_locker.html
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# CSV output files
+shoes.csv
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env

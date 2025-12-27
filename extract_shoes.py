@@ -2,6 +2,7 @@ import json
 import csv
 
 
+
 def extract_shoes():
    url = "https://www.footlocker.co.nz/en/category/sale/boxingday?query=%3Arelevance%3Acollection_id%3Asale%3Abrand%3ANike"
    headers = {
